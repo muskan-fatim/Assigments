@@ -12,7 +12,7 @@ I’ve officially kicked things off with the **Basic Level Projects** today and 
 
 ## 📁 Project Levels
 
-### 🟢 Basic Level – [✅ 2/4 Completed]
+### 🟢 Basic Level – [✅ 5/5 Completed]
 Projects here are focused on:
 - Strengthening fundamentals
 - Practicing simple logic
