@@ -20,7 +20,7 @@ Projects here are focused on:
 - Practicing simple logic
 - Building consistency
 
-### 🟡 Intermediate Level – [🔜 Coming Soon]
+### 🟡 Intermediate Level –  [✅ 5/5 Completed]
 Projects will include:
 - More complex challenges
 - Use of functions, loops, conditions
