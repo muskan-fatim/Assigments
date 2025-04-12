@@ -26,7 +26,7 @@ Projects will include:
 - Use of functions, loops, conditions
 - Building mini apps
 
-### 🔴 Advanced Level – [🔜 Coming Soon]
+### 🔴 Compulsory level – [5/9 compelted]
 This level will be all about:
 - Problem-solving and optimization
 - Real-world application logic
