@@ -26,7 +26,7 @@ Projects will include:
 - Use of functions, loops, conditions
 - Building mini apps
 
-### 🔴 Compulsory level – [7/9 compelted]
+### 🔴 Compulsory level – [9/9 compelted]
 This level will be all about:
 - Problem-solving and optimization
 - Real-world application logic
